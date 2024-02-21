@@ -35,5 +35,5 @@ Certifique-se de ter os seguintes arquivos no mesmo diretório do notebook:
 
 ## Autor
 
-Este notebook foi criado por [seu nome aqui] como parte de um projeto de análise de dados.
+Este notebook foi criado por [KauêCalixto] como parte de um projeto de análise de dados.
 
